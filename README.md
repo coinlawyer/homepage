@@ -18,4 +18,3 @@ and [Vercel](https://homepage.coinlawyer.now.sh/) (former Zeit) with now.json. �
 Thanks to [Volodymyr Kushnir](https://volodymyrkushnir.com/) for 🧠instructions and template👊!
 
 
-🧙Hocus-pocus!
