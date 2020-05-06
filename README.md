@@ -8,10 +8,10 @@ Used [Workbox](https://developers.google.com/web/tools/workbox) which helps to b
 Also made a pre-commit git hook, which automatically runs workbox and generate workbox-config.js before I commit 
 and push my code to GitHub, so that I don't have to do it manually every time I make changes.
 
-## Deployed 
+## Deployment
 ---
 For study purpuses this site was deployed on [AWS](http://coinlawyer.github.io-homepage-production.s3-website.eu-central-1.amazonaws.com/) with the basic CI/CD process using Travis CI 
-and [Vercel](https://homepage-ebon.now.sh/) (former Zeit) with now.json. ​​[Vercel](https://vercel.com/docs/v2/git-integrations) also provides integrations for your GitHub, GitLab, and Bitbucket projects, allowing for automatic deployments on every branch push and merge to the default branch.
+and [Vercel](https://homepage.coinlawyer.now.sh/) (former Zeit) with now.json. ​​[Vercel](https://vercel.com/docs/v2/git-integrations) also provides integrations for your GitHub, GitLab, and Bitbucket projects, allowing for automatic deployments on every branch push and merge to the default branch.
 
 ## Credits 
 ---
